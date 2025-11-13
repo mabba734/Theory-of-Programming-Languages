@@ -1,41 +1,40 @@
-# Theory of Programming Languages – Project Collection
+# Theory of Programming Languages – Course Projects
 
-A collection of small programming projects written in **Swift, Scheme (Racket), and Prolog** for a course on programming language concepts. The assignments explore different programming paradigms, including object-oriented programming, functional programming, and logic programming.
+This folder contains my programming assignments for **CSCI 3210: Theory of Programming Languages**.  
+The course introduces major programming paradigms and the core ideas behind how languages are designed and implemented.  
+Each project was completed in a different language to explore how programming concepts change across paradigms.
 
-These projects demonstrate foundational skills useful for software, data, and technical problem-solving roles, including recursion, data structures, parsing, and algorithmic thinking.
+## Included Languages & Paradigms
+- **Swift (Object-Oriented Programming)**
+- **Scheme / Racket (Functional Programming)**
+- **Prolog (Logic Programming)**
 
-## 📌 Projects Overview
+## Projects
 
-### **1. Swift – Student Grading & Analytics Program**
-- Parses structured data from a file (`scores.dat`)
-- Stores student records using classes and dictionaries
-- Calculates total points, letter grades, class averages, and highest scores
-- Demonstrates object-oriented programming and basic data analytics
+### Swift – Object-Oriented Programming
+Implements a student grading and analytics program using classes, dictionaries, file handling, and basic data processing.
 
-### **2. Scheme (Racket) – Recursive List Functions**
-- Implements classical list-processing functions:
-  - `area`, `power`, `countZero`, `reverse`, `palindrome`, `merge`
-- Demonstrates functional programming, recursion, and pattern matching
-- Shows comfort with immutable data and recursive logic
+### Scheme / Racket – Functional Programming
+Recursive list-processing functions, including:
+- reverse
+- palindrome checking
+- merging lists
+- power function
+- counting zeros
+These demonstrate functional thinking, immutability, and recursive logic.
 
-### **3. Prolog – Logic Programming Predicates**
-- Implements logical rules for:
-  - Membership checking
-  - Even/odd evaluation
-  - Counting even numbers in a list
-  - Minimum value in a list
-  - Checking palindromes
-  - Counting binary tree leaf nodes
-- Demonstrates declarative programming and recursive inference rules
+### Prolog – Logic Programming
+Declarative predicates for:
+- membership testing
+- even/odd evaluation
+- counting even numbers
+- finding the minimum in a list
+- checking palindromes
+- counting leaf nodes in a binary tree
 
-## 🧠 Skills Demonstrated
-
-- **Object-Oriented Programming:** Classes, dictionaries, modular design (Swift)  
-- **Functional Programming:** Recursion, list operations, immutability (Scheme)  
-- **Logic Programming:** Pattern matching, unification, declarative reasoning (Prolog)  
-- **Data Processing:** Parsing text files, computing aggregates  
-- **Algorithmic Thinking:** Traversing lists and trees, building recursive solutions  
-
-## 🔧 How to Run
-
-### Swift
+## Skills Demonstrated
+- Understanding of different programming paradigms  
+- Recursion and mathematical function design  
+- List and tree processing  
+- Declarative logic and pattern matching  
+- Cross-language problem solving  
